@@ -66,7 +66,7 @@ describe("stylesheets", function(){
 
   })
 
-  describe(".scss", function(){
+  /*describe(".scss", function(){
 
     var root = __dirname + '/fixtures/stylesheets/scss'
     var poly = polymer.root(root)
@@ -97,9 +97,9 @@ describe("stylesheets", function(){
       })
     })
 
-  })
+  })*/
 
-  describe(".sass", function(){
+  /*describe(".sass", function(){
 
     var root = __dirname + '/fixtures/stylesheets/sass'
     var poly = polymer.root(root)
@@ -128,7 +128,7 @@ describe("stylesheets", function(){
       })
     })
 
-  })
+  })*/
 
   // Test for using partial for preprocessed CSS
   // For emails, etc.
