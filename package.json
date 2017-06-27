@@ -1,17 +1,18 @@
 {
-  "name": "terraform",
-  "version": "1.4.0",
+  "name": "iterraform",
+  "version": "1.4.1",
   "description": "pre-processor engine that powers the harp web server",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sintaxi/terraform.git"
+    "url": "https://github.com/indooorsman/iterraform.git"
   },
   "main": "./lib/terraform",
   "scripts": {
     "test": "mocha --reporter spec"
   },
-  "author": "Brock Whitten <brock@chloi.io>",
+  "author": "indooorsman@gmail.com",
   "contributors": [
+    "indooorsman@gmail.com",
     "Brock Whitten  <brock@chloi.io>",
     "Brian Donovan <donovan@squareup.com>",
     "Kenneth Ormandy <kenneth@chloi.io>",
@@ -48,7 +49,6 @@
     "lodash": "3.10.1",
     "lru-cache": "4.0.0",
     "marked": "0.3.5",
-    "node-sass": "4.5.3",
     "postcss": "5.0.14",
     "stylus": "0.54.5",
     "through": "2.3.8"
